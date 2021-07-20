@@ -1,0 +1,5 @@
+Absenteeism New Data Predictions to SQL-MA.ipynb : exercise to import the py module Absenteeism_script.py that will generate predictions out of the the new data Absenteeism_new_data.csv
+
+Absenteeism_Logictic_Reg_model / Absenteeism_Logictic_scaler: python pickle files used to run the Absenteeism_script.py that will generate predictions out of the the new data Absenteeism_new_data.csv
+
+Absenteeism_Export from SQL.csv: csv file exported out of the mysql database that was filled out from the jupyter notebook Absenteeism New Data Predictions to SQL-MA.ipynb 
